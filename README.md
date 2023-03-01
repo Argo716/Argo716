@@ -10,9 +10,6 @@
 - 🔭 I’m currently working on Gambling Website  
 - ❓ Ask me about anything related to full stack & casino  
 - ⚡ Fun fact: I like making bugs! :D
-<br/>  
-Contact me on <b>Telegram</b>: @ArgoTamm716
-<br/>
 
 <table><tr><td valign="top" width="50%">
 
